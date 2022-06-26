@@ -1,7 +1,44 @@
 theme: jekyll-theme-minimal
 title: Johannes Gessner
-description: [Contact information:
-University of Mannheim, Department of  Economics
-L7, 3-5, 68163 Mannheim]
 logo: https://media-exp2.licdn.com/dms/image/C5603AQGFwOf0HNtHWg/profile-displayphoto-shrink_800_800/0/1554016467479?e=1661385600&v=beta&t=t9yqesmoBXaG-lkldDUeotRX1NuXB3N2nkDnALxWtP4
 show_downloads: false
+
+github:
+  is\_project\_page: false
+
+# Site Author
+author:
+  name             : "Johannes Gessner"
+  bio              : #"Your biography for the left-hand sidebar"
+  location         : "University of Mannheim"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "jgessner[at]mail.uni-mannheim[dot]de"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : #"beatethies"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : #"@BeateThies"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
