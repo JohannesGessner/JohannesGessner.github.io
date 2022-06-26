@@ -6,7 +6,7 @@ In my research, I work on questions from Environmental Economics and Behavioral 
 <br/>
 <br/>
 
-### CV
+### [CV](/docs/assets/pdf/CV_jgessner.pdf)
 
 ### Work in progress
 ** Can social comparisons and moral suasion increase public transport ridership and decrease car use?**  (*joint with Wolfgang Habla and Ulrich Wagner*)
