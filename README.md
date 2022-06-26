@@ -9,7 +9,7 @@ In my research, I work on questions from Environmental Economics and Behavioral 
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
 
 ### Work in progress
-** Can social comparisons and moral suasion increase public transport ridership and decrease car use?**  (*joint with Wolfgang Habla and Ulrich Wagner*)
+**Can social comparisons and moral suasion increase public transport ridership and decrease car use?**  (*joint with Wolfgang Habla and Ulrich Wagner*)
 <details>
   <summary>Abstract</summary>
     As carbon prices still lack political support, particularly in the transport sector, behavioral interventions
