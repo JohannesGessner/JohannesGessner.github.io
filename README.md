@@ -5,7 +5,7 @@ In my research, I work on questions from Environmental Economics and Behavioral 
 
 <br/>
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
-
+<br/>
 ### Work in progress
 **Can social comparisons and moral suasion increase public transport ridership and decrease car use?**<br/> (*joint with [Wolfgang Habla](https://www.srh-hochschule-heidelberg.de/hochschule/hochschulteam/wolfgang-habla/) and [Ulrich Wagner](https://ulrichwagner.eu/)*)
 <details>
@@ -27,7 +27,7 @@ by opposite and offsetting effects on participants with below- and above-median 
 expenditures, respectively, in the pre-treatment period. Furthermore, we do not find
 evidence for other heterogeneous treatment effects.
 </details>
-      
+<br/>
 ### Working Papers
 **Are there Rebound Effects from Electric Vehicle Adoption? Evidence from German Household Data** <br/> (*joint with [Vera Huwe](https://www.uni-due.de/soziooekonomie/huwe), [ZEW Discussion Paper No. 20-048, 2020](https://ftp.zew.de/pub/zew-docs/dp/dp20048.pdf)*)
 <details>
