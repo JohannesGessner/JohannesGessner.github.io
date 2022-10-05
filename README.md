@@ -1,7 +1,7 @@
 ## Welcome
 
 I am a PhD student in Economics at the [University of Mannheim](https://www.uni-mannheim.de/gess/).<br/>
-In my research, I work on questions from Environmental Economics and Behavioral Economics.
+In my research, I work on questions from Environmental Economics, Transportation Economics and Behavioral Economics.
 
 <br/>
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
