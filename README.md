@@ -24,7 +24,7 @@ by opposite and offsetting effects on participants with below- and above-median 
 expenditures, respectively, in the pre-treatment period. 
 </details>
 <br/>
-### Working Papers
+### Dormant Papers
 **Are there Rebound Effects from Electric Vehicle Adoption? Evidence from German Household Data** <br/> (*joint with [Vera Huwe](https://www.uni-due.de/soziooekonomie/huwe), [ZEW Discussion Paper No. 20-048, 2020](https://ftp.zew.de/pub/zew-docs/dp/dp20048.pdf)*)
 <details>
   <summary>Abstract</summary>
