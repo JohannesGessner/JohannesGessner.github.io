@@ -10,18 +10,7 @@ In my research, I work on questions from Environmental Economics, Transportation
 **Can social comparisons and moral suasion increase public transport ridership and decrease car use?**<br/> (*joint with [Wolfgang Habla](https://www.srh-hochschule-heidelberg.de/hochschule/hochschulteam/wolfgang-habla/) and [Ulrich Wagner](https://ulrichwagner.eu/)*)
 <details>
   <summary>Abstract</summary>
- In a field experiment with 428 participants, we test the effectiveness
-of e-mail messages that contain a social comparison, either in isolation or in combination
-with a climate-related moral appeal to use public transportation whenever possible. We do so
-in the context of an employer's mobility budget scheme that serves an alternative to a company
-car. This scheme provides an annual budget to employees that can be used to pay for various
-modes of transport, for leisure and commuting trips. We find (weak)
-evidence for reduced car-related transportation in response to the combined treatment. For the
-effect of the pure social comparison on car-related expenditures, as well as for the effect of both
-types of messages on public transportation, we do not find any statistically significant behavior
-changes. Importantly, the null effect of the social comparison treatment cannot be explained
-by opposite and offsetting effects on participants with below- and above-median public transportation
-expenditures, respectively, in the pre-treatment period. 
+Companies often provide generous mobility options to their employees, e.g., in the form of a company car or a mobility budget. In such settings with very little financial incentives to switch to low-emission transport modes, behavioral interventions might be a cost-effective tool to lower carbon emissions. In a field experiment with 341 participants, we test the effectiveness of e-mail messages that contain a social comparison, either in isolation or in combination with a climate-related moral appeal to use public transportation whenever possible. We do so in the context of an employer's mobility budget scheme that offers an alternative to a company car. This scheme provides an annual budget to employees that can be used to pay for various modes of transport, both for leisure and commuting trips. We study whether the messages can change individual expenditures for and use of public and car-related transportation. We do not find any evidence that the social comparison alone can alter mobility behavior, but we do find evidence for a reduction in car-related mobility (though not public transportation) in response to the combined treatment. The null effect of the social comparison treatment can partly be explained by opposite and offsetting effects on participants with below- and above-median public transportation expenditures. We also find evidence for stronger treatment effects in the first month of the two-month treatment period and for weeks in which the e-mail messages were sent.
 </details>
 <br/>
 ### Dormant Papers
