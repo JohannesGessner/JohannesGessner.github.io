@@ -14,7 +14,7 @@ Under pressure to reduce corporate CO$_2$ emissions, companies are beginning to 
 </details>
 <br/>
 ### Work in Progress
-**Regulatory Stringency, Supply Chains and Innovation in the Car Industry
+**Regulatory Stringency, Supply Chains and Innovation in the Car Industry**<br/>
 <br/>
 ### Dormant Papers
 **Are there Rebound Effects from Electric Vehicle Adoption? Evidence from German Household Data** <br/> (*joint with [Vera Huwe](https://www.uni-due.de/soziooekonomie/huwe), [ZEW Discussion Paper No. 23-003, 01/2023](https://ftp.zew.de/pub/zew-docs/dp/dp20048.pdf)*)
