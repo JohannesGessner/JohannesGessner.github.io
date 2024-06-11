@@ -1,16 +1,16 @@
 ## Welcome
 
-I am a PhD student in Economics at the [University of Mannheim](https://www.uni-mannheim.de/gess/).<br/>
-In my research, I work on questions from Environmental Economics, Transportation Economics and Behavioral Economics.
+I am a PhD student in Economics at the [University of Mannheim’s Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/).<br/>
+I am interested in applied microeconomics, with a focus on environmental and innovation economics. My job market paper studies how environmental regulation affects innovation by upstream supplier companies in the context of the car industry. In other projects, I study policies and interventions aimed at reducing environmental externalities associated with corporate benefit schemes subsidizing passenger transportation. 
 
 <br/>
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
 <br/>
 ### Working Papers
-**Can social comparisons and moral suasion increase public transport ridership and decrease car use?** <br/> (*joint with [Wolfgang Habla](https://www.srh-hochschule-heidelberg.de/hochschule/hochschulteam/wolfgang-habla/) and [Ulrich Wagner](https://ulrichwagner.eu/), [ZEW Discussion Paper No. 23-003, 2023](https://ftp.zew.de/pub/zew-docs/dp/dp23003.pdf)*)<br/>
+**Can social comparisons and moral appeals encourage low-emission transport use?** <br/> (*joint with [Wolfgang Habla](https://www.dhbw-vs.de/hochschule/mitarbeitende/wolfgang-habla.html) and [Ulrich Wagner](https://ulrichwagner.eu/), [CRC TR 224 Discussion Paper No. 451, This version August 2023](https://www.crctr224.de/research/discussion-papers/archive/dp451), Accepted at [Transportation Research Part D: Transport and the Environment](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment)*)<br/>
 <details>
   <summary>Abstract</summary>
-Under pressure to reduce corporate CO2 emissions, companies are beginning to replace subsidized company car schemes with so-called mobility budgets that employees can spend on leisure and commuting trips, using a broad range of transport modes. Given their novelty, little is known about how mobility budgets should be designed to encourage sustainable choices. Since prices play a limited role in this subsidized setting, our study focuses on behavioral interventions. In a field experiment with 341 employees of a large German company, we test whether social comparisons, either in isolation or in combination with a climate-related moral appeal, can change the use of public and car-related transportation. We find strong evidence for a reduction in car-related mobility in response to the combined treatment, which is driven by taxi and ride-sharing services. This is accompanied by substitution towards micromobility, i.e., transport modes such as shared e-scooters or bikes, but not towards public transport. We do not find any effects of the social comparison alone. Our results demonstrate that small, norm-based nudges can change transportation behavior, albeit for a limited time. 
+Because company cars add to corporate CO2 footprints, companies are beginning to replace cars with mobility budgets that employees can use for leisure and commuting trips. This study examines whether nudges can encourage sustainable travel in such a subsidized setting. We conduct a field experiment with 341 employees of a large German company. Observing expenditure items charged to the mobility budget, we test if social comparisons and a climate-related moral appeal induce a shift towards low-emissions transport modes. We find that simultaneous application of both nudges causes a reduction in car use, particularly taxi and ride sharing, as well as substitution towards micromobility, but not public transport. The social comparison alone is not effective, and the treatment effects of the combined nudge vanish in the second half of the treatment period. Survey evidence suggests that these results are driven by a minority that complies with the communicated social norm. 
 </details>
 <br/>
 ### Work in Progress
