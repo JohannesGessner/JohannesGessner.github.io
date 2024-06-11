@@ -15,7 +15,7 @@ Because company cars add to corporate CO2 footprints, companies are beginning to
 <br/>
 
 ### Work in Progress
-**[Regulatory Stringency, Supply Chains and Innovation in the Car Industry](/docs/assets/pdf/CV_jgessner.pdf)** <br/>
+**[Regulatory Stringency, Supply Chains and Innovation in the Car Industry](/docs/assets/pdf/JMP Statement.pdf)** <br/>
 
 ### Dormant Papers
 **[Are there Rebound Effects from Electric Vehicle Adoption? Evidence from German Household Data](https://ftp.zew.de/pub/zew-docs/dp/dp20048.pdf)** <br/> (*joint with [Vera Huwe](https://www.uni-due.de/soziooekonomie/huwe), ZEW Discussion Paper No. 20-048, This version October 2020*)<br/>
