@@ -3,11 +3,16 @@
 
 @import "{{ site.theme }}";
 header {
-    max-height: 150px; /* Set a maximum height for the header */
     overflow-y: auto;  /* Enable vertical scrolling */
     overflow-x: hidden; /* Hide horizontal scrolling */
     padding: 10px;     /* Add some padding for aesthetics */
     border-bottom: 1px solid #ccc; /* Optional: add a bottom border */
+    scrollbar-width: none; /* For Firefox */
+}
+
+/* For Webkit browsers (Chrome, Safari) */
+header::-webkit-scrollbar {
+    display: none; /* Hide the scrollbar */
 }
 
 header h1,
