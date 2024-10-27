@@ -1,6 +1,6 @@
 ## Welcome
 
-I am a PhD student in Economics at the [University of Mannheim’s Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/).
+I am a PhD student in Economics at the [University of Mannheim](https://www.uni-mannheim.de/gess/).
 I am interested in applied microeconomics, with a focus on environmental economics, transportation and innovation economics.<br/>
 
 #### <font color="red"> I am on the 2024 - 2025 job market. </font>
