@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 header {
-    height: 1000px;      /* Set a fixed height for the header */
+    height: 150px;      /* Set a fixed height for the header */
     overflow-y: auto;  /* Enable vertical scrolling */
     overflow-x: hidden; /* Hide horizontal scrolling */
     padding: 10px;     /* Add some padding for aesthetics */
