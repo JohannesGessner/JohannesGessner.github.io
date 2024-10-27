@@ -4,7 +4,7 @@ I am a PhD student in Economics at the [University of Mannheim](https://www.uni-
 My main research interests are environmental economics and innovation economics.<br/>
 
 #### <font color="red"> I am on the 2024 - 2025 job market. </font>
-My job market paper studies how environmental regulation affects innovation by upstream supplier companies in the context of the car industry. In other projects, I study policies and interventions aimed at reducing environmental externalities associated with corporate benefit schemes subsidizing passenger transportation. 
+My job market paper studies how environmental regulation affects innovation by upstream supplier companies in the context of the car industry. In other projects, I study policies and interventions aimed at reducing environmental externalities associated with corporate benefit schemes subsidizing passenger transportation. <br/>
 
 ### Job Market Paper
 **[Shifting Gears: Environmental Regulation in the Car Industry and Technological Change Among Automotive Suppliers](/docs/assets/pdf/JMP.pdf)** <br/>
