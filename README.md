@@ -3,9 +3,12 @@
 I am a PhD student in Economics at the [University of Mannheim’s Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/).
 I am interested in applied microeconomics, with a focus on environmental economics, transportation and innovation economics.<br/>
 
-#### <font color="darkred"> I am on the 2024 - 2025 Job Market </font>
-**[Regulatory Stringency, Supply Chains and Innovation in the Car Industry](/docs/assets/pdf/JMP.pdf)** <br/>
+#### <font color="red"> I am on the 2024 - 2025 Job Market. </font>
 My job market paper studies how environmental regulation affects innovation by upstream supplier companies in the context of the car industry. In other projects, I study policies and interventions aimed at reducing environmental externalities associated with corporate benefit schemes subsidizing passenger transportation. 
+
+### Job Market Paper
+**[Regulatory Stringency, Supply Chains and Innovation in the Car Industry](/docs/assets/pdf/JMP.pdf)** <br/>
+
 
 <br/>
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
