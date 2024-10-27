@@ -6,3 +6,18 @@
     max-width: 10px; /* Adjust this value as needed */
     height: auto; /* Maintain aspect ratio */
 }
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Full height of the viewport */
+}
+
+.content-container {
+    display: flex; /* Use flexbox to arrange main content and sidebar */
+    flex: 1; /* Allow this section to grow */
+}
+
+.main-content {
+    flex: 1; /* Main content takes available space */
+    padding: 20px; /* Optional padding */
+}
