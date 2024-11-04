@@ -32,6 +32,10 @@ Because company cars add to corporate CO2 footprints, companies are beginning to
 </details>
 <br/>
 
+### Work in Progress
+**The Alignment Effect of Auditing: Evidence from Energy Efficiency Retrofits** <br/> (*joint with [Andreas Gerster](https://sites.google.com/site/andgerster/) and [Michael Kramm](https://sites.google.com/site/michaelkramm/)*)<br/>
+<br/>
+
 ### Dormant Papers
 **[Are there Rebound Effects from Electric Vehicle Adoption? Evidence from German Household Data](https://ftp.zew.de/pub/zew-docs/dp/dp20048.pdf)** <br/> (*joint with [Vera Huwe](https://www.uni-due.de/soziooekonomie/huwe), ZEW Discussion Paper No. 20-048, this version October 2020*)<br/>
 <details>
