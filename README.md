@@ -15,7 +15,7 @@ Decarbonizing industries to mitigate climate change requires technological chang
 </details>
 <br/>
 
-<br/>
+
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
 <br/>
 
