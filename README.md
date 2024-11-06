@@ -8,8 +8,12 @@ My job market paper studies how environmental regulation affects innovation by u
 
 <br/>
 ### Job Market Paper
-**[Shifting Gears: Environmental Regulation in the Car Industry and Technological Change Among Automotive Suppliers](/docs/assets/pdf/JMP.pdf)** <br/>
-
+**[Shifting Gears: Environmental Regulation in the Car Industry and Technological Change Among Suppliers](/docs/assets/pdf/JMP.pdf)** <br/>
+<details>
+  <summary>Abstract</summary>
+Decarbonizing industries to mitigate climate change requires technological change. Innovation by suppliers can play a crucial role for the technological transition, particularly when suppliers have expertise on zero-emission technologies. In this paper, I study the effect of environmental regulation in a downstream industry on the innovation outcomes of suppliers in the context of the European CO2 emission standard for passenger cars. I construct a novel data set that links administrative data on car manufacturer compliance to supplier patent data using information on automotive supply chains. To identify causal effects of changes in the stringency of the emission standard, I leverage the heterogeneous exposure of automotive suppliers to changes in the composition of the European car market in the aftermath of the 2015 Volkswagen diesel scandal. I find that exposure to more stringent environmental regulation increases innovation for zero-emission vehicle technologies among existing suppliers. In addition, the likelihood that car manufacturers form new supply chain links to firms with prior knowledge on technologies to reduce vehicle emissions increases in response to more stringent environmental regulation. These results suggest that environmental regulation induces economically significant technology spillovers to the regulated industry. 
+</details>
+<br/>
 
 <br/>
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
