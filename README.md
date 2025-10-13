@@ -1,10 +1,7 @@
 ## Welcome
 
-I am a PhD student in Economics at the [University of Mannheim](https://www.uni-mannheim.de/gess/).<br/>
+I am a postdoctoral research fellow at the [Toulouse School of Economics](https://www.tse-fr.eu/fr/people/johannes-gessner).<br/>
 My main research interests are environmental economics, applied microeconomics, innovation economics and transportation.<br/>
-
-#### Job Market Update
-I will join the Toulouse School of Economics as a postdoctoral research fellow in fall 2025. 
 
 <br/>
 ### [CV](/docs/assets/pdf/CV_jgessner.pdf)
