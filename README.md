@@ -23,6 +23,14 @@ Many European companies face the challenge of lowering CO2 emissions from their 
 </details>
 <br/>
 
+**[The Alignment Effect of Auditing](https://www.crctr224.de/research/discussion-papers/archive/dp696)** <br/> (*joint with [Andreas Gerster](https://sites.google.com/site/andgerster/) and [Michael Kramm](https://sites.google.com/site/michaelkramm/)*)<br/>
+<br/>
+<details>
+  <summary>Abstract</summary>
+ There is growing evidence that households often forgo profitable energy efficiency retrofits, partly due to inattention and imperfect information about their economic benefits. We conduct an incentivized survey experiment to evaluate both the effectiveness and the welfare implications of a widely used policy tool aimed at addressing this issue: providing information from an energy efficiency audit. In our incentivized experiment, participants in the treatment group receive personalized information about the potential cost savings from retrofitting their heating systems, while those in the control group do not receive such information. Our results show that providing this information does not increase the average willingness to pay for a retrofit. However, it enhances welfare– by approximately 43 Euro per household– by better aligning households’ decisions to retrofit with their actual cost savings.
+</details>
+<br/>
+
 
 ### Publications
 **Targeted policies to break the deadlock on heating bans.** <br/>*Nature Climate Change, [https://doi.org/10.1038/s41558-025-02343-9](https://doi.org/10.1038/s41558-025-02343-9)* <br/> (*joint with [Ottmar Edenhofer](https://www.pik-potsdam.de/members/edenh/homepage-de), [Andreas Gerster](https://sites.google.com/site/andgerster/home), [Erica Myers](https://sites.google.com/site/ericacatherinemyers/), [Michael Pahle](https://www.pik-potsdam.de/members/pahle/homepage-de) and [Karen Palmer](https://www.rff.org/people/karen-l-palmer/)*)<br/>
@@ -39,9 +47,8 @@ Because company cars add to corporate CO2 footprints, companies are beginning to
 </details>
 <br/>
 
-### Work in Progress
-**The Alignment Effect of Auditing: Evidence from Energy Efficiency Retrofits** <br/> (*joint with [Andreas Gerster](https://sites.google.com/site/andgerster/) and [Michael Kramm](https://sites.google.com/site/michaelkramm/)*)<br/>
-<br/>
+
+
 
 ### Dormant Papers
 **[Are there Rebound Effects from Electric Vehicle Adoption? Evidence from German Household Data](https://ftp.zew.de/pub/zew-docs/dp/dp20048.pdf)** <br/> (*joint with [Vera Huwe](https://www.uni-due.de/soziooekonomie/huwe), ZEW Discussion Paper No. 20-048, this version October 2020*)<br/>
