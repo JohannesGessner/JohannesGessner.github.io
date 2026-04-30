@@ -4,7 +4,7 @@ I am a postdoctoral research fellow at the [Toulouse School of Economics](https:
 My main research interests are environmental economics, applied microeconomics, innovation economics and transportation.<br/>
 
 <br/>
-### [CV](/docs/assets/pdf/CV_jgessner.pdf)
+### [CV](docs/assets/pdf/CV_JGessner.pdf)
 <br/>
 
 ### Working Papers
