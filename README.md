@@ -9,7 +9,7 @@ My main research interests are environmental economics, applied microeconomics, 
 
 ### Working Papers
 
-**[Shifting Gears: Environmental Regulation in the Car Industry and Technological Change Among Suppliers](https://www.crctr224.de/research/discussion-papers/archive/dp654)** <br/>
+**[Environmental Regulation in the Car Industry and Technological Change Among Suppliers](https://www.crctr224.de/research/discussion-papers/archive/dp654)** <br/>
 <details>
   <summary>Abstract</summary>
 Decarbonizing industries to mitigate climate change requires technological change. Innovation by suppliers can play a crucial role for the technological transition, particularly when suppliers have expertise on zero-emission technologies. In this paper, I study the effect of environmental regulation in a downstream industry on the innovation outcomes of suppliers in the context of the European CO2 emission standard for passenger cars. I construct a novel data set that links administrative data on car manufacturer compliance to supplier patent data using information on automotive supply chains. To identify causal effects of changes in the stringency of the emission standard, I leverage the heterogeneous exposure of automotive suppliers to changes in the composition of the European car market in the aftermath of the 2015 Volkswagen diesel scandal. I find that exposure to more stringent environmental regulation increases innovation for zero-emission vehicle technologies among existing suppliers. In addition, the likelihood that car manufacturers form new supply chain links to firms with prior knowledge on technologies to reduce vehicle emissions increases in response to more stringent environmental regulation. These results suggest that environmental regulation induces economically significant technology spillovers to the regulated industry. 
@@ -23,7 +23,7 @@ Many European companies face the challenge of lowering CO2 emissions from their 
 </details>
 <br/>
 
-**[The Alignment Effect of Auditing](https://www.crctr224.de/research/discussion-papers/archive/dp696)** <br/> (*joint with [Andreas Gerster](https://sites.google.com/site/andgerster/) and [Michael Kramm](https://sites.google.com/site/michaelkramm/)*)<br/>
+**[The Alignment Effect of Auditing](https://www.crctr224.de/research/discussion-papers/archive/dp696)** <br/> (*joint with [Andreas Gerster](https://sites.google.com/site/andgerster/) and [Michael Kramm](https://sites.google.com/site/michaelkramm/)*R&R at the [Journal of Public Economics](https://www.sciencedirect.com/journal/journal-of-public-economics).*)<br/>
 <details>
   <summary>Abstract</summary>
  There is growing evidence that households often forgo profitable energy efficiency retrofits, partly due to inattention and imperfect information about their economic benefits. We conduct an incentivized survey experiment to evaluate both the effectiveness and the welfare implications of a widely used policy tool aimed at addressing this issue: providing information from an energy efficiency audit. In our incentivized experiment, participants in the treatment group receive personalized information about the potential cost savings from retrofitting their heating systems, while those in the control group do not receive such information. Our results show that providing this information does not increase the average willingness to pay for a retrofit. However, it enhances welfare– by approximately 43 Euro per household– by better aligning households’ decisions to retrofit with their actual cost savings.
