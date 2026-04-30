@@ -32,7 +32,7 @@ Many European companies face the challenge of lowering CO2 emissions from their 
 
 
 ### Publications
-**[Targeted policies to break the deadlock on heating bans](https://doi.org/10.1038/s41558-025-02343-9)** <br/>*Nature Climate Change (Comment), * <br/> (*joint with [Ottmar Edenhofer](https://www.pik-potsdam.de/members/edenh/homepage-de), [Andreas Gerster](https://sites.google.com/site/andgerster/home), [Erica Myers](https://sites.google.com/site/ericacatherinemyers/), [Michael Pahle](https://www.pik-potsdam.de/members/pahle/homepage-de) and [Karen Palmer](https://www.rff.org/people/karen-l-palmer/)*)<br/>
+**[Targeted policies to break the deadlock on heating bans](https://doi.org/10.1038/s41558-025-02343-9)** <br/> *Nature Climate Change (Comment)* <br/> (*joint with [Ottmar Edenhofer](https://www.pik-potsdam.de/members/edenh/homepage-de), [Andreas Gerster](https://sites.google.com/site/andgerster/home), [Erica Myers](https://sites.google.com/site/ericacatherinemyers/), [Michael Pahle](https://www.pik-potsdam.de/members/pahle/homepage-de) and [Karen Palmer](https://www.rff.org/people/karen-l-palmer/)*)<br/>
 <details>
   <summary>Abstract</summary>
 As an important policy instrument for building sector decarbonization, bans on fossil fuel-based heating face fierce opposition with doubts over their economic viability. With a unified perspective that incorporates the views of proponents and opponents, we discuss the importance of targeted policies to break the deadlock.
