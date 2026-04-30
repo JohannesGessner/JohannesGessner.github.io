@@ -9,7 +9,7 @@ My main research interests are environmental economics, applied microeconomics, 
 
 ### Working Papers
 
-**[Environmental Regulation in the Car Industry and Technological Change Among Suppliers](https://github.com/JohannesGessner/JohannesGessner.github.io/blob/main/docs/assets/pdf/JGessner_Environmental%20Regulation%20in%20the%20Car%20Industry%20and%20Technological%20Change%20Among%20Suppliers.pdf)** <br/>
+**[Environmental Regulation in the Car Industry and Technological Change Among Suppliers](docs/assets/pdf/JGessner_Environmental Regulation in the Car Industry and Technological Change Among Suppliers.pdf)** <br/>
 <details>
   <summary>Abstract</summary>
 Suppliers of intermediate inputs can be important drivers of technological change. Nevertheless, regulation aiming to induce technological transformations, e.g. in the context of climate change mitigation, is often imposed only on final products. 
