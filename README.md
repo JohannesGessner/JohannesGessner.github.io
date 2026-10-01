@@ -1,7 +1,8 @@
 ## Welcome
 
-I am a junior professor of Economics, with a Focus on Environmental and Resource Economics at [Heidelberg University](https://www.awi.uni-heidelberg.de/de).<br/>
-My main research interests are environmental economics, applied microeconomics, innovation economics and transportation.<br/>
+I am a Junior Professor of Economics (focus on Environmental and Resource Economics) at [Heidelberg University](https://www.awi.uni-heidelberg.de/de). Before that, I was a postdoctoral researcher at the [Toulouse School of Economics](https://www.tse-fr.eu/). I received my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in 2025. <br/>
+
+My main research interests are environmental economics, behavioral economics, innovation and transportation.<br/>
 
 <br/>
 ### [CV](docs/assets/pdf/CV_JGessner.pdf)
